@@ -1,0 +1,41 @@
+{
+  "files": {
+    "static/js/0.d7b32046.chunk.js": "/static/js/0.d7b32046.chunk.js",
+    "static/js/0.d7b32046.chunk.js.map": "/static/js/0.d7b32046.chunk.js.map",
+    "static/js/1.f1c8b465.chunk.js": "/static/js/1.f1c8b465.chunk.js",
+    "static/js/1.f1c8b465.chunk.js.map": "/static/js/1.f1c8b465.chunk.js.map",
+    "main.css": "/static/css/main.ef33fa61.chunk.css",
+    "main.js": "/static/js/main.a589d157.chunk.js",
+    "main.js.map": "/static/js/main.a589d157.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.964008a2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.964008a2.js.map",
+    "static/js/4.ee224536.chunk.js": "/static/js/4.ee224536.chunk.js",
+    "static/js/4.ee224536.chunk.js.map": "/static/js/4.ee224536.chunk.js.map",
+    "static/js/5.645b8b17.chunk.js": "/static/js/5.645b8b17.chunk.js",
+    "static/js/5.645b8b17.chunk.js.map": "/static/js/5.645b8b17.chunk.js.map",
+    "static/js/6.a98719f7.chunk.js": "/static/js/6.a98719f7.chunk.js",
+    "static/js/6.a98719f7.chunk.js.map": "/static/js/6.a98719f7.chunk.js.map",
+    "static/js/7.29f06214.chunk.js": "/static/js/7.29f06214.chunk.js",
+    "static/js/7.29f06214.chunk.js.map": "/static/js/7.29f06214.chunk.js.map",
+    "static/js/8.bd56d7e7.chunk.js": "/static/js/8.bd56d7e7.chunk.js",
+    "static/js/8.bd56d7e7.chunk.js.map": "/static/js/8.bd56d7e7.chunk.js.map",
+    "static/js/9.f8d2748c.chunk.js": "/static/js/9.f8d2748c.chunk.js",
+    "static/js/9.f8d2748c.chunk.js.map": "/static/js/9.f8d2748c.chunk.js.map",
+    "static/js/10.15aa8223.chunk.js": "/static/js/10.15aa8223.chunk.js",
+    "static/js/10.15aa8223.chunk.js.map": "/static/js/10.15aa8223.chunk.js.map",
+    "static/js/11.618a5acd.chunk.js": "/static/js/11.618a5acd.chunk.js",
+    "static/js/11.618a5acd.chunk.js.map": "/static/js/11.618a5acd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.ef33fa61.chunk.css.map": "/static/css/main.ef33fa61.chunk.css.map",
+    "static/js/4.ee224536.chunk.js.LICENSE.txt": "/static/js/4.ee224536.chunk.js.LICENSE.txt",
+    "static/media/condominio-building-background.bed7fb58.jpg": "/static/media/condominio-building-background.bed7fb58.jpg",
+    "static/media/condominio-logo.80ced111.png": "/static/media/condominio-logo.80ced111.png",
+    "static/media/sustainable-building-background.1dcfc4fe.jpg": "/static/media/sustainable-building-background.1dcfc4fe.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.964008a2.js",
+    "static/js/4.ee224536.chunk.js",
+    "static/css/main.ef33fa61.chunk.css",
+    "static/js/main.a589d157.chunk.js"
+  ]
+}

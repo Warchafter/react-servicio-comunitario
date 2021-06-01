@@ -1,0 +1,4 @@
+You can run this command to print out your new app's Google Services config:
+  firebase apps:sdkconfig WEB 1:229131348214:web:6b52e65a0b7814a3ea64d7
+
+  
